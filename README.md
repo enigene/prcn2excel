@@ -1,4 +1,4 @@
 prcn2excel
 ==========
 
-Percon To Excel Converter
+Format Percon output summary to tabular data file for import into Excel.
